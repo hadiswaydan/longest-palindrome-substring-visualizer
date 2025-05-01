@@ -1,14 +1,14 @@
 <div align="center">
 <h2>Longest Palindrome Substring (Visualizer)</h2>
 
-### <a href="https://swaymax1.github.io/longest-palindrome-substring-visualizer">Longest Palindrome Substring Finder algorithm in React </a>
+### <a href="https://hadiswaydan.github.io/longest-palindrome-substring-visualizer">Longest Palindrome Substring Finder algorithm in React </a>
 </div>
 
-### <a href="https://swaymax1.github.io/longest-palindrome-substring-visualizer/">live demo</a>
+### <a href="https://hadiswaydan.github.io/longest-palindrome-substring-visualizer/">live demo</a>
 
 ### Running in your local
 
-- `git clone https://github.com/swaymax1/longest-palindrome-substring-visualizer.git`
+- `git clone https://github.com/hadiswaydan/longest-palindrome-substring-visualizer.git`
 - `npm install` (after navigating inside the directory)
 - `npm start`
 
