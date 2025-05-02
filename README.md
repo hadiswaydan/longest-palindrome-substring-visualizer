@@ -17,15 +17,7 @@
 - Two pointers
 - Middle out
 - Dynamic programming
-
-### Technologies
-
-- [React](https://reactjs.org/) with hooks
-- [Emotion](https://emotion.sh/)
-- [mui-slider](https://mui.com/material-ui/react-slider/)
-
 ------------
 
 ##### Feel free to reuse or modify the code/project for your personal or professinal purposes
 ##### Raise PR for any bugs/imporvements
-#### mobile is not supported
