@@ -1,20 +1,17 @@
-import './App.css';
-import React from 'react';
-import { Title } from './components/title';
-import { Controls } from './components/controls';
-import { WordRow } from './components/word';
-import { Answer } from './components/answer';
-
+import "./App.css";
+import React from "react";
+import Title from "./components/Title";
+import Control from "./components/Control";
+import WordRow from "./components/WordRow";
+import Answer from "./components/Answer";
 
 export default function App() {
-
   return (
-    <div className='container'>
+    <div className="container">
       <Title />
-      <Controls />
+      <Control />
       <WordRow />
       <Answer />
     </div>
   );
 }
-

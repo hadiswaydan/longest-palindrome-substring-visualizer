@@ -1,8 +1,7 @@
-import React from 'react'
+import React from "react";
 
-export function Title() {
-
-    return (
-        <h1 style={{ position: 'relative', top: 10, fontSize: '2em' }}>Longest Palindrome Substring Visualizer</h1>
-    );
+export default function Title() {
+  return (
+    <h1 className="page-title">Longest Palindrome Substring Visualizer</h1>
+  );
 }
